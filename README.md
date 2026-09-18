@@ -45,6 +45,7 @@ We observe the evolution of **LLM/Agent-as-Data-Analyst** techniques follows a f
 [![Cover2](assets/data_analysis_survey_v2.png)](assets/data_analysis_survey_v2.png)
 
 ## 📤 LLM-Enhanced Application-Ready Data Preparation
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — capture the real LLM request/response stream and replay it offline.
 
 We present a systematic survey of **LLM-enhanced data preparation**, an emerging paradigm driven by growing demands for application-ready data, advances in large language models, and agent-oriented data infrastructures. 
 - **(1) Paradigm Shift Identification:** We reveal the transition from rule-based, model-specific pipelines to prompt-driven, context-aware, and agentic preparation workflows;
