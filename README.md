@@ -720,12 +720,12 @@ Synthesize reasoning steps using, e.g., CoT.
 
 #### Reinforcement Learning
 
-1. **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**
+1.**Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization**
+   Shaohua Duan, Pengcheng Huang, Xinze Li, et al. *ACL 2026*. [[Paper](https://arxiv.org/abs/2508.13993)]
+2. **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**
    Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, et al. *NeurIPS 2023*. [[Paper](https://dl.acm.org/doi/10.5555/3666122.3668142)]
-2. **Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback**
+3. **Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback**
    Yuntao Bai, Andy Jones, Kamal Ndousse, et al. *arXiv 2022.* [[Paper](https://doi.org/10.48550/arXiv.2204.05862)]
-3. **Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization**
-   Shaohua Duan, Pengcheng Huang, Xinze Li, et al. *ACL 2026 (Oral)*. [[Paper](https://arxiv.org/abs/2508.13993)]
 
 #### Retrieval-Augmentation Generation
 
