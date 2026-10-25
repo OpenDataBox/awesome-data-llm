@@ -186,10 +186,12 @@
 
 ### LLM 评估数据
 
-1. **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI** Xiang Yue, Yuansheng Ni, Kai Zhang, et al. *CVPR 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_MMMU_A_Massive_Multi-discipline_Multimodal_Understanding_and_Reasoning_Benchmark_for_CVPR_2024_paper.pdf)]
-2. **LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language Models** Haitao Li, You Chen, Qingyao Ai, et al. *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2409.20288)]
-3. **What disease does this patient have? a large-scale open domain question answering dataset from medical exams** Di Jin, Eileen Pan, Nassim Oufattole, et al. *AAAI 2021*. [[Paper](https://arxiv.org/abs/2009.13081)]
-4. **Evaluating Large Language Models Trained on Code** Mark Chen, Jerry Tworek, Heewoo Jun, et al. *arXiv 2021*. [[Paper](https://arxiv.org/abs/2107.03374)]
+1.  **StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs**
+      Jialin Yang, Dongfu Jiang, Lipeng He, et al. *TMLR 2025*. [[Paper](https://openreview.net/forum?id=buDwV7LUA7)] [[Code](https://github.com/TIGER-AI-Lab/StructEval)] [[Dataset](https://huggingface.co/datasets/TIGER-Lab/StructEval)]
+2. **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI** Xiang Yue, Yuansheng Ni, Kai Zhang, et al. *CVPR 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_MMMU_A_Massive_Multi-discipline_Multimodal_Understanding_and_Reasoning_Benchmark_for_CVPR_2024_paper.pdf)]
+3. **LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language Models** Haitao Li, You Chen, Qingyao Ai, et al. *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2409.20288)]
+4. **What disease does this patient have? a large-scale open domain question answering dataset from medical exams** Di Jin, Eileen Pan, Nassim Oufattole, et al. *AAAI 2021*. [[Paper](https://arxiv.org/abs/2009.13081)]
+5. **Evaluating Large Language Models Trained on Code** Mark Chen, Jerry Tworek, Heewoo Jun, et al. *arXiv 2021*. [[Paper](https://arxiv.org/abs/2107.03374)]
 
 ### LLM Agent 数据
 
@@ -927,7 +929,11 @@
 
 1. **A Watermark for Large Language Models** [[Paper](https://arxiv.org/abs/2301.10226)]
 
+#### 智能体执行追踪与回放
 
+1. **OrcaReplay**: Records LLM requests, responses, and tool
+   interactions as local traces for replay and debugging.
+   [[Code](https://github.com/Continuum-AI-Corp/OrcaReplay)]
 
 ## 4 面向数据管理的 LLM
 
