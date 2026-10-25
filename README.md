@@ -46,6 +46,7 @@ We observe the evolution of **LLM/Agent-as-Data-Analyst** techniques follows a f
 
 ## 📤 LLM-Enhanced Application-Ready Data Preparation
 
+
 We present a systematic survey of **LLM-enhanced data preparation**, an emerging paradigm driven by growing demands for application-ready data, advances in large language models, and agent-oriented data infrastructures. 
 - **(1) Paradigm Shift Identification:** We reveal the transition from rule-based, model-specific pipelines to prompt-driven, context-aware, and agentic preparation workflows;
 - **(2) Task-Centric Taxonomy:** We organize existing methods into data cleaning, data integration, and data enrichment;  
@@ -1205,7 +1206,11 @@ Synthesize reasoning steps using, e.g., CoT.
 
 1. **A Watermark for Large Language Models** [[Paper](https://arxiv.org/abs/2301.10226)]
 
+#### Agent Execution Tracing and Replay
 
+1. **OrcaReplay**: Records LLM requests, responses, and tool
+   interactions as local traces for replay and debugging.
+   [[Code](https://github.com/Continuum-AI-Corp/OrcaReplay)]
 
 ## 4 LLM for Data Management
 
